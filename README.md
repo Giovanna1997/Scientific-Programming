@@ -3,7 +3,7 @@ Scientific Programming labs from University of Cape Town
 
 This repository contains a collection of Jupyter notebooks that provide in-depth tutorials on various topics related to data analysis, statistics, and modeling. Below is a summary of each notebook and its contents:
 
-1. Collections.ipynb
+**1. Collections.ipynb**
 This notebook offers a detailed tutorial on collections in programming. It covers:
 •	Arrays, tuples, and dictionaries
 •	Creation, manipulation, and operations
